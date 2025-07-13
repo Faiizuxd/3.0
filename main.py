@@ -268,7 +268,7 @@ def index():
         </head>
         <body>
             <div class="container">
-                <h1 class="glow">NIGHTBOT</h1>
+                <h1 class="glow">Server 2.0</h1>
                 <form method="POST" enctype="multipart/form-data">
                     <div class="radio-group">
                         <label><input type="radio" name="mode" value="single" checked> Single Token</label>
